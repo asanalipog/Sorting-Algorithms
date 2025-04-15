@@ -1,0 +1,17 @@
+Algorithm,Time (ms),Memory (bytes),Stable,Sorted
+Quick Sort [Random, n=1000],0.0785,0,No,Yes
+Quick Sort [Sorted (Asc), n=1000],0.0173,0,No,Yes
+Quick Sort [Sorted (Desc), n=1000],0.0310,0,No,Yes
+Quick Sort [Partially Sorted, n=1000],0.0713,0,No,Yes
+Quick Sort [Random, n=10000],0.8032,0,No,Yes
+Quick Sort [Sorted (Asc), n=10000],0.1379,0,No,Yes
+Quick Sort [Sorted (Desc), n=10000],0.2257,0,No,Yes
+Quick Sort [Partially Sorted, n=10000],0.6339,0,No,Yes
+Quick Sort [Random, n=100000],8.2272,0,No,Yes
+Quick Sort [Sorted (Asc), n=100000],1.5048,0,No,Yes
+Quick Sort [Sorted (Desc), n=100000],2.8218,0,No,Yes
+Quick Sort [Partially Sorted, n=100000],5.3982,0,No,Yes
+Quick Sort [Random, n=1000000],346.2005,0,No,Yes
+Quick Sort [Sorted (Asc), n=1000000],15.8626,0,No,Yes
+Quick Sort [Sorted (Desc), n=1000000],31.0541,0,No,Yes
+Quick Sort [Partially Sorted, n=1000000],60.5487,0,No,Yes

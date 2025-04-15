@@ -1,0 +1,17 @@
+Algorithm,Time (ms),Memory (bytes),Stable,Sorted
+Heap Sort [Random, n=1000],0.0913,13107,No,Yes
+Heap Sort [Sorted (Asc), n=1000],0.0729,0,No,Yes
+Heap Sort [Sorted (Desc), n=1000],0.0679,0,No,Yes
+Heap Sort [Partially Sorted, n=1000],0.0835,0,No,Yes
+Heap Sort [Random, n=10000],1.1013,0,No,Yes
+Heap Sort [Sorted (Asc), n=10000],1.0264,0,No,Yes
+Heap Sort [Sorted (Desc), n=10000],1.0927,0,No,Yes
+Heap Sort [Partially Sorted, n=10000],1.0629,0,No,Yes
+Heap Sort [Random, n=100000],9.4797,0,No,Yes
+Heap Sort [Sorted (Asc), n=100000],7.0477,0,No,Yes
+Heap Sort [Sorted (Desc), n=100000],6.6843,0,No,Yes
+Heap Sort [Partially Sorted, n=100000],8.1065,0,No,Yes
+Heap Sort [Random, n=1000000],135.1946,0,No,Yes
+Heap Sort [Sorted (Asc), n=1000000],88.3948,0,No,Yes
+Heap Sort [Sorted (Desc), n=1000000],91.7256,0,No,Yes
+Heap Sort [Partially Sorted, n=1000000],134.2472,0,No,Yes

@@ -1,0 +1,12 @@
+Algorithm,Time (ms),Memory (bytes),Stable,Sorted
+Merge Sort,0.1400,0,Yes,Yes
+Heap Sort,0.0788,0,No,Yes
+Quick Sort,0.0634,0,No,Yes
+Bubble Sort,1.0981,0,Yes,Yes
+Insertion Sort,0.1887,0,Yes,Yes
+Selection Sort,1.5067,0,No,Yes
+Tournament Sort,0.0856,131072,No,Yes
+Library Sort,0.0794,0,Yes,No
+Comb Sort,0.0496,0,No,Yes
+Tim Sort,0.0401,0,Yes,Yes
+Cocktail Shaker Sort,0.5957,0,Yes,Yes

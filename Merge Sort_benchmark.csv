@@ -1,0 +1,17 @@
+Algorithm,Time (ms),Memory (bytes),Stable,Sorted
+Merge Sort [Random, n=1000],0.1285,3276800,Yes,Yes
+Merge Sort [Sorted (Asc), n=1000],0.0710,3276800,Yes,Yes
+Merge Sort [Sorted (Desc), n=1000],0.0728,3276800,Yes,Yes
+Merge Sort [Partially Sorted, n=1000],0.1052,3276800,Yes,Yes
+Merge Sort [Random, n=10000],1.5834,3394764,Yes,Yes
+Merge Sort [Sorted (Asc), n=10000],1.4870,3407872,Yes,Yes
+Merge Sort [Sorted (Desc), n=10000],1.2816,3407872,Yes,Yes
+Merge Sort [Partially Sorted, n=10000],1.1408,3407872,Yes,Yes
+Merge Sort [Random, n=100000],11.4170,4548198,Yes,Yes
+Merge Sort [Sorted (Asc), n=100000],5.9797,4587520,Yes,Yes
+Merge Sort [Sorted (Desc), n=100000],6.0508,4587520,Yes,Yes
+Merge Sort [Partially Sorted, n=100000],9.5101,4587520,Yes,Yes
+Merge Sort [Random, n=1000000],116.1585,15794585,Yes,Yes
+Merge Sort [Sorted (Asc), n=1000000],60.4192,16162816,Yes,Yes
+Merge Sort [Sorted (Desc), n=1000000],62.1240,16162816,Yes,Yes
+Merge Sort [Partially Sorted, n=1000000],100.2814,16162816,Yes,Yes

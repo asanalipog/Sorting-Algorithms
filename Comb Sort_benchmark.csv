@@ -1,0 +1,17 @@
+Algorithm,Time (ms),Memory (bytes),Stable,Sorted
+Comb Sort [Random, n=1000],0.1400,13107,No,Yes
+Comb Sort [Sorted (Asc), n=1000],0.0228,0,No,Yes
+Comb Sort [Sorted (Desc), n=1000],0.0353,0,No,Yes
+Comb Sort [Partially Sorted, n=1000],0.0928,0,No,Yes
+Comb Sort [Random, n=10000],1.2213,0,No,Yes
+Comb Sort [Sorted (Asc), n=10000],0.3349,0,No,Yes
+Comb Sort [Sorted (Desc), n=10000],0.4702,0,No,Yes
+Comb Sort [Partially Sorted, n=10000],1.3728,0,No,Yes
+Comb Sort [Random, n=100000],7.8293,0,No,Yes
+Comb Sort [Sorted (Asc), n=100000],2.2565,0,No,Yes
+Comb Sort [Sorted (Desc), n=100000],2.9282,0,No,Yes
+Comb Sort [Partially Sorted, n=100000],9.0152,0,No,Yes
+Comb Sort [Random, n=1000000],71.3865,0,No,Yes
+Comb Sort [Sorted (Asc), n=1000000],27.6085,0,No,Yes
+Comb Sort [Sorted (Desc), n=1000000],33.5255,0,No,Yes
+Comb Sort [Partially Sorted, n=1000000],109.0152,0,No,Yes
