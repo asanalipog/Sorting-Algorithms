@@ -1,0 +1,17 @@
+Algorithm,Time (ms),Memory (bytes),Stable,Sorted
+Bubble Sort [Random, n=1000],1.1471,13107,Yes,Yes
+Bubble Sort [Sorted (Asc), n=1000],0.0014,0,Yes,Yes
+Bubble Sort [Sorted (Desc), n=1000],1.0829,0,Yes,Yes
+Bubble Sort [Partially Sorted, n=1000],0.6845,0,Yes,Yes
+Bubble Sort [Random, n=10000],127.3754,0,Yes,Yes
+Bubble Sort [Sorted (Asc), n=10000],0.0091,0,Yes,Yes
+Bubble Sort [Sorted (Desc), n=10000],74.2839,0,Yes,Yes
+Bubble Sort [Partially Sorted, n=10000],84.6607,0,Yes,Yes
+Bubble Sort [Random, n=100000],16572.7785,0,Yes,Yes
+Bubble Sort [Sorted (Asc), n=100000],0.0884,0,Yes,Yes
+Bubble Sort [Sorted (Desc), n=100000],7435.4484,0,Yes,Yes
+Bubble Sort [Partially Sorted, n=100000],11407.4547,0,Yes,Yes
+Bubble Sort [Random, n=1000000],1658037.5501,0,Yes,Yes
+Bubble Sort [Sorted (Asc), n=1000000],0.9212,0,Yes,Yes
+Bubble Sort [Sorted (Desc), n=1000000],733828.9085,0,Yes,Yes
+Bubble Sort [Partially Sorted, n=1000000],1133612.0296,0,Yes,Yes
