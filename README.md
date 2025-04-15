@@ -10,3 +10,4 @@ make
 make run
 ```
 ## Then you will choose type of entries you want to examine, or special sorting algorithm. As a result you will receive a .csv file
+All my results stored in results folder
